@@ -28,7 +28,7 @@ Sparkify.html
  |- mini_sparkify_event_data.json
 
 ## Medium Blog Post<a name="blog"></a>
-The main findings of the code can be found at the post available [here](https://medium.com/@tajimash/).
+The main findings of the code can be found at the post available [here](https://medium.com/@tajimash/potentially-saving-your-bisiness-millions-in-revenue-6409669e9979).
 
 ## Acknowledgements<a name="licensing"></a>
 * [Udacity](https://www.udacity.com/) for providing an excellent Data Scientist training program and the project along with the data.
