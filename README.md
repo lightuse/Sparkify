@@ -9,7 +9,13 @@
 ## Installation <a name="installation"></a> 
 This project requires Python 3.11 and the following Python libraries installed:
 
-- [Numpy](https://www.numpy.org/)
+- PySpark 3.5
+- [pyspark.ml](https://spark.apache.org/docs/2.3.0/api/python/pyspark.ml.html)
+- [pyspark.sql](https://spark.apache.org/docs/2.4.0/api/python/pyspark.sql.html)
+- [SynapseML](https://github.com/microsoft/SynapseML)
+- Pandas
+- Seaborn
+- Matplotlib
 
 ## Project Motivation<a name="motivation"></a>
 For this project, I was interested in predicting customer churn.
