@@ -1,4 +1,4 @@
-### Table of Contents
+### Table of Cobikonontents
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
@@ -18,7 +18,7 @@ This project requires Python 3.11 and the following Python libraries installed:
 - Matplotlib
 
 ## Project Motivation<a name="motivation"></a>
-For this project, I was interested in predicting customer churn.
+The SaaS business must manage churn. Getting subscriptions to continue is becoming central to business. In addition, we can stop services that should be unnecessary if we know the criteria for stopping unwanted subscriptions. I am very interested in how we deal with churn as I am also in this business.
 
 ## File Descriptions <a name="files"></a>
 
